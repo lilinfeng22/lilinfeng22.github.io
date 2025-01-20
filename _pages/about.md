@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "李林锋的个人网站"
+title: "# 🎉 Welcome to my personal website! 🎉"
 author_profile: true
 redirect_from: 
   - /about/
