@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "中国"
-title                    : "李林锋的个人网站"
+locale                   : "China 🇨🇳"
+title                    : "lilinfeng"
 title_separator          : "-"
 name                     : &name "李林锋"
 description              : &description "personal description"
