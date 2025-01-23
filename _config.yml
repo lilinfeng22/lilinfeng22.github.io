@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://raw.githubusercontent.com/lilinfeng22/lilinfeng22.github.io/refs/heads/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250123135345.png"
   name             : "LiLinFeng | 李林锋"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
